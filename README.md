@@ -26,7 +26,7 @@ The minimum required configuration:
 
 ```yaml
 device_tracker:
-  - platform: eero_tracker
+  - platform: tenda_tracker
     host: 192.168.1.1
     password: <password to admin panel>
 ```
