@@ -1,7 +1,7 @@
 {
   "domain": "tenda_tracker",
   "name": "Tenda AC23 Router Device Tracker",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "config_flow": false,
   "documentation": "https://github.com/sakowicz/home-assistant-tenda-tracker",
   "issue_tracker": "https://github.com/sakowicz/home-assistant-tenda-tracker/issues",
