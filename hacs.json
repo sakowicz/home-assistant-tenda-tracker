@@ -1,5 +1,4 @@
 {
   "name": "Tenda AC23 Router Device Tracker",
-  "domains": [ "device_tracker" ],
   "render_readme": true
 }
